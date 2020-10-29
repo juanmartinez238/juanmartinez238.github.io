@@ -1,0 +1,16 @@
+.myHeader {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #3339ff;
+}
+
+.bodyheader {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #339fff;
+}
+.wholebackground {
+  background-color: black;
+}
+
+div img {
+  height: 300px;
+}
