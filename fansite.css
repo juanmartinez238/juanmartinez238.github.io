@@ -1,16 +1,38 @@
-.myHeader {
+h1 {
   font-family: "Source Sans Pro", sans-serif;
   color: #3339ff;
+}
+
+.mainheader {
+  display: flex;
+  justify-content: center;
 }
 
 .bodyheader {
   font-family: "Source Sans Pro", sans-serif;
   color: #339fff;
 }
-.wholebackground {
+* {
   background-color: black;
 }
 
 div img {
   height: 300px;
+  border-radius: 10%;
+}
+
+p {
+  color: white;
+}
+
+p,
+.bodyheader,
+img {
+  display: flex;
+  justify-content: center;
+}
+
+.mypic {
+  display: flex;
+  justify-content: center;
 }
